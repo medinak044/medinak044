@@ -1,5 +1,5 @@
 # Kyle Medina
-<p>Hi I'm Kyle, I'm a web developer with a focus on .NET development. In my free time, I like doing game development in C# and creating orchestral versions of older video game soundtracks to listen to!</p>
+<p>Hi I'm Kyle, I'm a software developer with a focus on .NET development. In my free time, I like doing game development in C# and creating orchestral versions of older video game soundtracks to listen to!</p>
 
 
 ## Top Technologies
